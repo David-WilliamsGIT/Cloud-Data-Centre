@@ -1,0 +1,60 @@
+Lab 1:
+1. Check if your processor supports Intel/AMD virtualization technology. Enable Intel virtualization technology in BIOS if possible.
+(AMD)
+
+2. The cloud is almost everywhere in our lives now. What do you think are the fundamental reasons behind its success? Name three pros and three cons of cloud.
+PRO's:
+a. Scalability, cloud services provide scalable resources that can be adjusted based on the users desire. As businesses grow, so to will their demand for resources.
+
+b. Cost efficiency, companies spend a lot of money on buying their own servers and networking infrastructure. Cloud elimitnates the need for this and the
+company/user only has to pay what they use.
+
+c. Accessibility and flexibiltiy, being able to access applications from anywhere as long as connected to the internet makes it incredibly useful and valuable.
+
+CONS:
+
+a. Security, Storing data in remote locations provides security concerns especially if the cloud data centre or server is not secured properly.
+
+b. privacy and data sovereignty, relying on someone else to watch over your data provides privacy concerns as they can see what you do all the time. 
+Different countries have different regulations, privacy laws and data protection laws that could mean your data is not secure in another country but is in your own.
+
+c. Dependanct on internet connection, this makes accessability difficult if your internet goes down and if you required crucial or sensitive data. The only way to get it is
+to get your connection back to the cloud data.
+
+3. What is the primary function of a hypervisor in virtualization?
+The primary function is to manage and control multiple VM's on a device such as a PC allowing the user to test, learn and work with environements in a cheaper
+way than spending money to buy many pc's to run all the different OS's.
+
+4. What is a virtual machine (VM)?
+A VM is a software-based emulator that provides the user the ability to run multiple operating systems while on their own computer and use them however they desire.
+
+5. What are the benefits of using virtual machines?
+Cheaper and more efficient than buying a while pc and installing an operating system on them. They are fast and reliable, should a problem happen. The user
+can simply rollback to a previous snapshot of the machine before the problem occured.
+
+6. List five use cases of virtual machines.
+
+a. Server Virtualisation
+b. Development and testing
+c. Desktop virtualisation
+d. Application compatibility
+e. Disaster Recovery
+
+7. In virtualization, what is the guest operating system?
+
+b) The operating system installed on a virtual machine
+
+
+8. What does virtual machine isolation mean?
+
+c) Virtual machines run independently and are isolated from each other and the host system.
+
+
+
+9. What is the benefit of virtual machine portability?
+
+c) It allows virtual machines to be moved between different physical machines with compatible hypervisors.
+
+
+10. What is the purpose of cloning a virtual machine?
+The purpose is if a user wanted to test something happening in the same environment, it's good to clone it to replicate it such as how malware works.
